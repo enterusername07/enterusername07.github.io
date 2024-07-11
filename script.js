@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "You are as gentle as rose, as delicate as daisy, as warm as a sunflower and more beautiful than any flower.";
+  question.innerHTML = "Ayieeeeee, I like you too!!! HAHAHHAHAHA.";
   gif.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 });
